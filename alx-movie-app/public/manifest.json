@@ -3,19 +3,19 @@
   "short_name": "CineSeek",
   "icons": [
     {
-      "src": "/icons/android-chrome-192x192.png",
-      "sizes": "192x192",
+      "src": "/icons/android-chrome-144x144.png",
+      "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icons/apple-icon-152x152.png",
-      "sizes": "152x152",
+      "src": "/icons/apple-icon-150x150.png",
+      "sizes": "150x150",
       "type": "image/png"
     },
     {
-      "src": "/icons/ms-icon-310x310.png",
-      "sizes": "310x310",
+      "src": "/icons/ms-icon-480x480.png",
+      "sizes": "480x480",
       "type": "image/png"
     }
   ],
